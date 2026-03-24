@@ -1,0 +1,102 @@
+{
+  "quiz_name": "Polity MCQ Test",
+  "total_mcqs": 5,
+  "time_minutes": 5,
+  "questions": [
+    {
+      "question": "Which Article of the Indian Constitution deals with Fundamental Rights?",
+      "questionHindi": "भारतीय संविधान का कौन-सा अनुच्छेद मौलिक अधिकारों से संबंधित है?",
+      "options": [
+        "Article 12 to 35",
+        "Article 36 to 51",
+        "Article 52 to 78",
+        "Article 79 to 122"
+      ],
+      "optionsHindi": [
+        "अनुच्छेद 12 से 35",
+        "अनुच्छेद 36 से 51",
+        "अनुच्छेद 52 से 78",
+        "अनुच्छेद 79 से 122"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental Rights are provided in Articles 12 to 35.",
+      "explanationHindi": "मौलिक अधिकार अनुच्छेद 12 से 35 में दिए गए हैं।"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "questionHindi": "भारतीय संविधान के जनक किसे कहा जाता है?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Mahatma Gandhi",
+        "Rajendra Prasad"
+      ],
+      "optionsHindi": [
+        "जवाहरलाल नेहरू",
+        "डॉ. बी.आर. आंबेडकर",
+        "महात्मा गांधी",
+        "राजेंद्र प्रसाद"
+      ],
+      "answer": 1,
+      "explanation": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution.",
+      "explanationHindi": "डॉ. बी.आर. आंबेडकर को भारतीय संविधान का जनक कहा जाता है।"
+    },
+    {
+      "question": "Which part of the Constitution deals with Directive Principles of State Policy?",
+      "questionHindi": "संविधान का कौन-सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
+      ],
+      "optionsHindi": [
+        "भाग III",
+        "भाग IV",
+        "भाग V",
+        "भाग VI"
+      ],
+      "answer": 1,
+      "explanation": "Directive Principles are mentioned in Part IV of the Constitution.",
+      "explanationHindi": "नीति निदेशक तत्व संविधान के भाग IV में दिए गए हैं।"
+    },
+    {
+      "question": "Which body conducts elections in India?",
+      "questionHindi": "भारत में चुनाव कौन कराता है?",
+      "options": [
+        "Supreme Court",
+        "Election Commission of India",
+        "Parliament",
+        "President"
+      ],
+      "optionsHindi": [
+        "सुप्रीम कोर्ट",
+        "भारत निर्वाचन आयोग",
+        "संसद",
+        "राष्ट्रपति"
+      ],
+      "answer": 1,
+      "explanation": "The Election Commission of India conducts elections.",
+      "explanationHindi": "भारत निर्वाचन आयोग चुनाव कराता है।"
+    },
+    {
+      "question": "What is the tenure of the President of India?",
+      "questionHindi": "भारत के राष्ट्रपति का कार्यकाल कितना होता है?",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "optionsHindi": [
+        "4 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "7 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "The President of India holds office for 5 years.",
+      "explanationHindi": "भारत के राष्ट्रपति का कार्यकाल 5 वर्ष होता है।"
+    }
+  ]
+}
