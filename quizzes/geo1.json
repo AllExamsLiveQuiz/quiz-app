@@ -1,0 +1,121 @@
+{
+  "quiz_name": "Rocks MCQ Test",
+  "total_mcqs": 6,
+  "time_minutes": 10,
+  "questions": [
+    {
+      "question": "Which of the following statements is NOT correct regarding igneous rocks?",
+      "questionHindi": "आग्रेय चट्टानों के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+      "options": [
+        "They are formed by cooling of magma",
+        "They are layered in structure",
+        "They are generally crystalline",
+        "They are the oldest rocks"
+      ],
+      "optionsHindi": [
+        "ये मैग्मा के ठंडा होने से बनती हैं",
+        "ये परतदार होती हैं",
+        "ये सामान्यतः क्रिस्टलीय होती हैं",
+        "ये सबसे प्राचीन चट्टानें हैं"
+      ],
+      "answer": 1,
+      "explanation": "Igneous rocks are not layered; they are massive and unstratified.",
+      "explanationHindi": "आग्रेय चट्टानें परतदार नहीं होतीं; ये परतहीन होती हैं।"
+    },
+    {
+      "question": "How many of the following rocks are sedimentary in origin?\n1. Limestone\n2. Coal\n3. Quartzite\n4. Shale",
+      "questionHindi": "निम्नलिखित में से कितनी चट्टानें अवसादी हैं?\n1. चूना पत्थर\n2. कोयला\n3. क्वार्ट्जाइट\n4. शेल",
+      "options": [
+        "Only two",
+        "Only three",
+        "Only one",
+        "All four"
+      ],
+      "optionsHindi": [
+        "केवल दो",
+        "केवल तीन",
+        "केवल एक",
+        "सभी चार"
+      ],
+      "answer": 1,
+      "explanation": "Limestone, Coal and Shale are sedimentary. Quartzite is metamorphic.",
+      "explanationHindi": "चूना पत्थर, कोयला, शेल अवसादी हैं; क्वार्ट्जाइट कायांतरित है।"
+    },
+    {
+      "question": "Consider the following statements:\nStatement I: Metamorphic rocks do not contain fossils.\nStatement II: High temperature and pressure destroy original structures.\nWhich one of the following is correct?",
+      "questionHindi": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन I: कायांतरित चट्टानों में जीवाश्म नहीं होते।\nकथन II: उच्च ताप व दाब मूल संरचना को नष्ट कर देते हैं।\nसही उत्तर चुनिए।",
+      "options": [
+        "Both I and II are correct and II explains I",
+        "Both I and II are correct but II does not explain I",
+        "I is correct but II is incorrect",
+        "I is incorrect but II is correct"
+      ],
+      "optionsHindi": [
+        "दोनों सही हैं और II, I की व्याख्या करता है",
+        "दोनों सही हैं पर II व्याख्या नहीं करता",
+        "I सही है, II गलत है",
+        "I गलत है, II सही है"
+      ],
+      "answer": 0,
+      "explanation": "Both are correct and II explains why fossils are absent.",
+      "explanationHindi": "दोनों सही हैं और II, I की व्याख्या करता है।"
+    },
+    {
+      "question": "Which of the following is NOT correctly matched?",
+      "questionHindi": "निम्नलिखित में से कौन-सा युग्म सही नहीं है?",
+      "options": [
+        "Limestone — Marble",
+        "Sandstone — Quartzite",
+        "Granite — Gneiss",
+        "Basalt — Slate"
+      ],
+      "optionsHindi": [
+        "चूना पत्थर — संगमरमर",
+        "बलुआ पत्थर — क्वार्ट्जाइट",
+        "ग्रेनाइट — नीस",
+        "बेसाल्ट — स्लेट"
+      ],
+      "answer": 3,
+      "explanation": "Basalt does not change into slate; slate is formed from shale.",
+      "explanationHindi": "बेसाल्ट से स्लेट नहीं बनता; स्लेट शेल से बनता है।"
+    },
+    {
+      "question": "Which of the following processes are involved in formation of sedimentary rocks?\n1. Weathering\n2. Transportation\n3. Lithification\nSelect the correct answer:",
+      "questionHindi": "निम्नलिखित में से कौन-सी प्रक्रियाएँ अवसादी चट्टानों के निर्माण में शामिल हैं?\n1. अपक्षय\n2. परिवहन\n3. शिलीभवन\nसही उत्तर चुनिए।",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "optionsHindi": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "answer": 3,
+      "explanation": "All three processes are involved in sedimentary rock formation.",
+      "explanationHindi": "तीनों प्रक्रियाएँ शामिल हैं।"
+    },
+    {
+      "question": "With reference to rock cycle, consider the following statements:\n1. Igneous rocks can transform into metamorphic rocks.\n2. Sedimentary rocks can directly convert into igneous rocks without melting.\n3. Metamorphic rocks can melt to form magma.\nWhich of the statements given above is/are correct?",
+      "questionHindi": "शैल चक्र के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\n1. आग्रेय चट्टानें कायांतरित बन सकती हैं।\n2. अवसादी चट्टानें सीधे आग्रेय बन सकती हैं बिना पिघले।\n3. कायांतरित चट्टानें पिघलकर मैग्मा बना सकती हैं।\nसही उत्तर चुनिए।",
+      "options": [
+        "1 and 3 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "optionsHindi": [
+        "केवल 1 और 3",
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "1, 2 और 3"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 and 3 are correct. Statement 2 is incorrect (melting is required).",
+      "explanationHindi": "कथन 1 और 3 सही हैं। कथन 2 गलत है (पिघलना आवश्यक है)।"
+    }
+  ]
+}
